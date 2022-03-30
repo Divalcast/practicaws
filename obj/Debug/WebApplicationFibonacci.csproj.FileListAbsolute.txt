@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\webservice practicas\WebApplicationFibonacci\bin\WebApplicationFibonacci.dll.config
+C:\Users\LENOVO\Desktop\webservice practicas\WebApplicationFibonacci\bin\WebApplicationFibonacci.dll
+C:\Users\LENOVO\Desktop\webservice practicas\WebApplicationFibonacci\bin\WebApplicationFibonacci.pdb
+C:\Users\LENOVO\Desktop\webservice practicas\WebApplicationFibonacci\obj\Debug\WebApplicationFibonacci.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\webservice practicas\WebApplicationFibonacci\obj\Debug\WebApplicationFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\webservice practicas\WebApplicationFibonacci\obj\Debug\WebApplicationFibonacci.dll
+C:\Users\LENOVO\Desktop\webservice practicas\WebApplicationFibonacci\obj\Debug\WebApplicationFibonacci.pdb
